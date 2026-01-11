@@ -86,7 +86,7 @@ No installation required - works directly in your browser!
 
 2. **Open in browser**:
    ```bash
-   open password-app.html
+   open index.html
    # or double-click the file
    ```
 
